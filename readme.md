@@ -1,4 +1,11 @@
+<h1 align="center">Hi 👋, I'm Shahryar Tayeb</h1>
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shtayeb&label=Profile%20views&color=0e75b6&style=flat" alt="shtayeb" /> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shtayeb&show_icons=true&locale=en" alt="shtayeb" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shtayeb&" alt="shtayeb" /></p>
 
 **Languages I have used**
 
@@ -13,10 +20,9 @@
 **Some of the technologies I have worked with**
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
 ![Laravel](https://img.shields.io/badge/PHP-Laravel%20Framework-red)
+![Python](https://img.shields.io/badge/Python-Django%20Framework-red)
 
 
