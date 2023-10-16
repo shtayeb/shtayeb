@@ -7,7 +7,7 @@
 
 - 🎥 I’m currently building: [**SHTB Platform**](https://blog.shahryartayeb.com)
 
-- 🌱 I’m currently re-learning: **Data Structure & Algorighms**, **Design Patterns**
+- 🌱 I’m currently re-learning: **Data Structure & Algorighms**, **Design Patterns**, **GO**
 
 - 🎥 Find my writings : [**Here**](https://blog.shahryartayeb.com)
 
