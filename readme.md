@@ -7,9 +7,9 @@
 
 - 🎥 I’m currently building: [**SHTB Platform**](https://blog.shahryartayeb.com)
 
-- 🌱 I’m currently re-learning: **Data Structure & Algorighms**, **Design Patterns**, **GO**
+- 🌱 I’m currently re-learning: [**Data Structure & Algorithms**](https://github.com/shtayeb/ds-and-algorithm-with-Typescript), [**Design Patterns**](https://github.com/shtayeb/design-patterns-with-typescript), [**GO**](https://github.com/shtayeb/learning-GO)
 
-- 🎥 Find my writings : [**Here**](https://blog.shahryartayeb.com)
+- 🎥 Find my writings [**here**](https://blog.shahryartayeb.com)
 
 
 - 💬 Ask me about **JavaScript, Laravel, Django, DataBase Design**
