@@ -41,7 +41,7 @@
 
 ## 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=shtayeb&show_icons=true&theme=gruvbox)
+![Shahryar's GitHub stats](https://github-readme-stats.vercel.app/api?username=shtayeb&show_icons=true&theme=gruvbox)
 
 
 
