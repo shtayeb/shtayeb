@@ -3,9 +3,9 @@
 # Hi 👋, I'm Shahryar Tayeb
 <p align="center" style="margin:10px 0 5px 0"> 
 
-- 🎥 I’m currently building: [**SHTB Platform**](https://blog.shahryartayeb.com)
+- 🎥 I’m currently building: [**nvim-django-shell**](http://github.com/shtayeb/nvim-django-shell) a neovim plugin
 
-- 🌱 I’m currently re-learning: [**Data Structure & Algorithms**](https://github.com/shtayeb/ds-and-algorithm-with-Typescript), [**Design Patterns**](https://github.com/shtayeb/design-patterns-with-typescript), [**GO**](https://github.com/shtayeb/learning-GO)
+- 🌱 I’m currently learning: [**GO**](https://github.com/shtayeb/learning-GO)
 
 - 🎥 Find my [**writings**](https://blog.shahryartayeb.com)
 
