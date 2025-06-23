@@ -3,7 +3,7 @@
 # Hi 👋, I'm Shahryar Tayeb
 <p align="center" style="margin:10px 0 5px 0"> 
 
-- 🎥 I’m currently building: [**nvim-django-shell**](http://github.com/shtayeb/nvim-django-shell) a neovim plugin
+- 🎥 I’m currently building: AB Testing Tools and AI Integrations
 
 - 🌱 I’m currently learning: [**GO**](https://github.com/shtayeb/learning-GO)
 
