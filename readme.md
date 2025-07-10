@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning: [**GO**](https://github.com/shtayeb/learning-GO)
 
-- 🎥 Find my [**writings**](https://blog.shahryartayeb.com)
+- 🎥 Find my [**writings**](https://shtb.dev/blog)
 
 - 💬 Ask me about **JavaScript, Laravel, Django, DataBase Design**
 
